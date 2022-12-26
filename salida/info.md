@@ -1,1 +1,1 @@
-En esta carpeta se guardan todos los resultados de la aplicación.
+En esta carpeta se guardan todos los resultados de la aplicación.   
