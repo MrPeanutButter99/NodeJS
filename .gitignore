@@ -1,2 +1,2 @@
-/salida/*.txt
-node_modules/
+./refuerzo/salida/*.txt
+./refuerzo/node_modules/
